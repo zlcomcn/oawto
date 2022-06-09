@@ -1,5 +1,5 @@
 services:
-  oawto:
+  zlcomc:
     build: .
     ports:
       - 80:80
