@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  oawto:
     build: .
     ports:
       - 80:80
